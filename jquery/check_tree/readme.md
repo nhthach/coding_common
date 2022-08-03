@@ -34,4 +34,4 @@ $(".parent-checkbox input:checkbox").cbFamily(function (){
   return $(this).parents(".parent-checkbox").next().find("input:checkbox");
 });
 
-``
+```
